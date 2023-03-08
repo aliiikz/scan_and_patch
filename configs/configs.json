@@ -1,0 +1,6 @@
+{
+  "sshfile": "/home/ali/.ssh/id_rsa",
+  "resultspath": "/home/ali/scan_and_patch/results",
+  "hostspath": "/home/ali/scan_and_patch/configs/hosts.txt",
+  "cvespath": "/home/ali/scan_and_patch/configs/cves"
+}
